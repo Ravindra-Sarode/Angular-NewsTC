@@ -1,30 +1,42 @@
-# NEWSSTC
+Build a news website with a reset API in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+## About
 
-## Development server
+Created a concise news website with a reset API using Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Live Demo
 
-## Code scaffolding
+Take a look at the live user version here: https://angular-news-tc.vercel.app/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technology Used
 
-## Build
+I have built this project using the following tools & techniques:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Angular
+Ngfor
+Routing
+REST API
+Nodemon
+VSCode
+Vercel
+Use newsapi.org
+Import httpclientmodule
+Create service
+Declare an API URL in service
+Declare function in service
+Call service in component
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
+Top Headlines
 
 ![Top Headline 1](https://github.com/Ravindra-Sarode/Angular-NewsTC/assets/84174506/be9872fd-0553-4f47-9e9e-1fb44b8b8ec4)
+
+
+Top News 
+![Top News 2](https://github.com/Ravindra-Sarode/Angular-NewsTC/assets/84174506/623d1ce3-86ab-407a-a0f3-50162e1fe37c)
+
+
+Business News  
+
+![Business News 3](https://github.com/Ravindra-Sarode/Angular-NewsTC/assets/84174506/35cd67a9-bca5-4fa0-acce-672bb908e6ed)
